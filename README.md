@@ -12,6 +12,19 @@ MAMP是一款集成环境工具，官方说明文档最近有更新，这里对 
 * [起步](./First_steps/First_Steps.md)
 
 #### 设置
+- 主机
+    - [通用](./Settings/general.md)
+    - Apache
+    - Ngnix
+    - SSL
+    - 附加
+    - 数据库
+    - 云端
+    - 主机表格   
+ 
+- [端口](./Settings/ports.md)
+- [编辑器](./Settings/editor.md)
+- [云端](./Settings/cloud.md)
 
 #### 服务器和服务
 
