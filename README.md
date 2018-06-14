@@ -13,8 +13,8 @@ MAMP是一款集成环境工具，官方说明文档最近有更新，这里对 
 
 #### 设置
 - 主机
-    - [通用](./Settings/general.md)
-    - Apache
+    - [通用](./Settings/Hosts/general.md)
+    - [Apache](./Settings/Hosts/Apache.md)
     - Ngnix
     - SSL
     - 附加
