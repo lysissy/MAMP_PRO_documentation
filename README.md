@@ -12,15 +12,15 @@ MAMP是一款集成环境工具，官方说明文档最近有更新，这里对 
 * [起步](./First_steps/First_Steps.md)
 
 #### 设置
-- 主机
+- [主机](./Settings/Hosts/general.md)
     - [通用](./Settings/Hosts/general.md)
     - [Apache](./Settings/Hosts/Apache.md)
     - [Nginx](./Settings/Hosts/Nginx.md)
     - [SSL](./Settings/Hosts/SSL.md)
-    - 附加
-    - 数据库
-    - 云端
-    - 主机表格   
+    - [附加项](./Settings/Hosts/Extras.md)
+    - [数据库](./Settings/Hosts/Databases.md)
+    - [云端](./Settings/Hosts/Cloud.md)
+    - [主机表格](./Settings/Hosts/general.md)
  
 - [端口](./Settings/ports.md)
 - [编辑器](./Settings/editor.md)
