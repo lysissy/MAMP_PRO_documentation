@@ -22,9 +22,9 @@ MAMP是一款集成环境工具，官方说明文档最近有更新，这里对 
     - [云端](./Settings/Hosts/Cloud.md)
     - [主机表格](./Settings/Hosts/general.md)
  
-- [端口](./Settings/ports.md)
-- [编辑器](./Settings/editor.md)
-- [云端](./Settings/cloud.md)
+- [端口](./Settings/Ports/Ports.md)
+- [编辑器](./Settings/Editor/Editor.md)
+- [云端](./Settings/Cloud/Cloud.md)
 
 #### 服务器和服务
 
