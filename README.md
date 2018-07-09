@@ -9,7 +9,7 @@ MAMP是一款集成环境工具，官方说明文档最近有更新，这里对 
 #### 安装、更新和升级
 
 #### 起步
-* [起步](./First_steps/First_Steps.md)
+- [起步](./First_steps/First_Steps.md)
 
 #### 设置
 - [主机](./Settings/Hosts/general.md)
